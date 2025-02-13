@@ -11,7 +11,7 @@ LED 제어 프로젝트
 ----
 ## 회로도
 
-(회로도)
+<img src="https://github.com/user-attachments/assets/64a2cd02-3d74-44bd-82b3-c51e196084a3" width = "500" height = "400">
 
 위의 회로도와 같이 구성하였다
 
