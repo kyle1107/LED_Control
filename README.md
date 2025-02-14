@@ -13,9 +13,14 @@ LED 제어 프로젝트
 
 <img src="https://github.com/user-attachments/assets/64a2cd02-3d74-44bd-82b3-c51e196084a3" width = "500" height = "400">
 
+
 위의 회로도와 같이 구성하였다
 
-(결과물)
+----
+## 결과물
+<img src = "https://github.com/user-attachments/assets/2ba49ee1-f0fa-4310-8fd7-586e1d0343a4" width = "320" height = "280">
+<img src="https://github.com/user-attachments/assets/02a175a2-1ef1-40df-98f9-4dd427266b36" width = "320" height = "280">
+<img src="https://github.com/user-attachments/assets/70d60b99-e691-4696-a28c-11b65d128423" width = "320" height = "280">
 
 ----
 ## 어플 
